@@ -1,4 +1,6 @@
 # PerceptualColor.anm2
+![perceptual_color_demo](https://github.com/user-attachments/assets/a6bdb73a-2e47-4098-b065-4c496bb12ea7)
+
 AviUtl2に知覚的な混色とグラデーションを追加するスクリプト
 
 beta27にて動作確認済
