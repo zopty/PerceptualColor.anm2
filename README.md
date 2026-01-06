@@ -1,0 +1,2 @@
+# PerceptualColor.anm2
+AviUtl2に知覚的な混色とグラデーションを追加するスクリプト
